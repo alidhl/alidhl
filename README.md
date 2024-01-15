@@ -1,4 +1,7 @@
-### Hi there 👋
+# Ali's GitHub Repository
+
+👋 Hey there! I'm Ali, a Computer Science student at King Saud University. My focus is on exploring the world of Artificial Intelligence, and I'm excited about the possibilities this domain holds.
+
 
 <!--
 **alidhl/alidhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
