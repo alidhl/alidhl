@@ -13,11 +13,11 @@ Computer Science student at King Saud University. My focus is on exploring the w
 [![LangChain](https://img.shields.io/badge/-LangChain-007ACC?style=flat)](https://langchain.com/)
 [![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alidhl&show_icons=true&theme=radical&count_private=tru)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alidhl&theme=tokyonight" alt="mystreak"/>
 ![alidhl's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alidhl&theme=tokyonight&layout=compact)
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alidhl/)
