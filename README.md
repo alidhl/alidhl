@@ -1,19 +1,23 @@
-# Ali's GitHub Repository
+# Hello, I'm Ali! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-👋 Hey there! I'm Ali, a Computer Science student at King Saud University. My focus is on exploring the world of Artificial Intelligence, and I'm excited about the possibilities this domain holds.
+## About Me
+I'm Ali, a Computer Science student at King Saud University. My focus is on exploring the world of Artificial Intelligence, and I'm excited about the possibilities this domain holds.
+- 🌱 I’m currently learning **Deep Learning**
+- 📫 How to reach me: **reach.alidhl@gmail.com**
 
+## Languages and Tools:
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
+[![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![LangChain](https://img.shields.io/badge/-LangChain-007ACC?style=flat)](https://langchain.com/)
+[![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 
-<!--
-**alidhl/alidhl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+## My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alidhl&show_icons=true&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alidhl&theme=tokyonight" alt="mystreak"/>
+![alidhl's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alidhl&theme=tokyonight&layout=compact)
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alidhl/)
