@@ -15,7 +15,7 @@ Computer Science student at King Saud University. My focus is on exploring the w
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alidhl&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alidhl&show_icons=true&theme=radical&count_private=tru)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alidhl&theme=tokyonight" alt="mystreak"/>
 ![alidhl's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alidhl&theme=tokyonight&layout=compact)
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
