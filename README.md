@@ -22,3 +22,5 @@ Computer Science student at King Saud University. My focus is on exploring the w
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alidhl/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alidhl&label=Profile%20views&color=0e75b6&style=flat" alt="alidhl" /> </p>
